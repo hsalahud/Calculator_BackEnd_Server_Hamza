@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [24/May/2020:15:15:51 -0700] "GET /calculator HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [24/May/2020:15:15:52 -0700] "GET /calculator/ HTTP/1.1" 200 52 http-bio-8080-exec-2 501
+0:0:0:0:0:0:0:1 - - [24/May/2020:15:15:52 -0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [24/May/2020:15:16:29 -0700] "GET /calculator HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [24/May/2020:15:16:29 -0700] "GET /calculator/ HTTP/1.1" 200 60 http-bio-8080-exec-5 35
